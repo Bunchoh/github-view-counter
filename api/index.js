@@ -61,8 +61,8 @@ module.exports = async (req, res) => {
   const style        = q.style                    || 'rounded'; // square | rounded | nobg | invisible
   const layout       = q.layout                   || 'horizontal'; // horizontal | vertical | split
 
-  const bgColor      = parseColor(q.bgColor)      || 'rgba(255,255,255,0.08)';
-  const labelBgColor = parseColor(q.labelBgColor) || 'rgba(255,255,255,0.05)';
+  const bgColor      = parseColor(q.bgColor)      || 'rgba(30, 130, 255, 0.9)';
+  const labelBgColor = parseColor(q.labelBgColor) || 'rgba(80, 80, 80, 0.8)';
 
   // ─── Count ───────────────────────────────────────────────────────
   const rawCount = (data || 0) + base;
