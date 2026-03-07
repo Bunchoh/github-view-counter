@@ -49,20 +49,20 @@ module.exports = async (req, res) => {
 
   const showIcon     = q.icon                     !== 'false';
   const iconSize     = parseInt(q.iconSize)       || 16;
-  const iconColor    = parseColor(q.iconColor)    || parseColor(q.color) || '#aaaaaa';
+  const iconColor    = parseColor(q.iconColor)    || parseColor(q.color) || '#cccccc';
 
   const showLabel    = q.label                    !== 'false';
   const labelText    = (q.label && q.label !== 'false') ? q.label : 'Profile views:';
-  const labelColor   = parseColor(q.labelColor)   || parseColor(q.color) || '#aaaaaa';
+  const labelColor   = parseColor(q.labelColor)   || parseColor(q.color) || '#cccccc';
 
-  const countColor   = parseColor(q.color)        || '#aaaaaa';
+  const countColor   = parseColor(q.color)        || '#cccccc';
   const fontSize     = parseInt(q.size)           || 13;
 
   const style        = q.style                    || 'rounded'; // square | rounded | nobg | invisible
   const layout       = q.layout                   || 'horizontal'; // horizontal | vertical | split
 
-  const bgColor      = parseColor(q.bgColor)      || 'rgba(0, 150, 255, 0.6)';
-  const labelBgColor = parseColor(q.labelBgColor) || 'rgba(80, 80, 80, 0.8)';
+  const bgColor      = parseColor(q.bgColor)      || 'rgba(0, 156, 255, 0.8)';
+  const labelBgColor = parseColor(q.labelBgColor) || 'rgba(120, 120, 120, 0.8)';
 
   // ─── Count ───────────────────────────────────────────────────────
   const rawCount = (data || 0) + base;
